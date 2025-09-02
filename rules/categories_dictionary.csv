@@ -1,20 +1,21 @@
-keyword,category
-supermarket,Groceries
-mercadona,Groceries
-carrefour,Groceries
-coffee,Dining
-starbucks,Dining
-restaurant,Dining
-uber,Transport
-taxi,Transport
-gas station,Transport
-payroll,Income
-salary,Income
-transfer,Income
-rent,Housing
-electricity,Utilities
-water,Utilities
-internet,Utilities
-amazon,Shopping
-ikea,Shopping
+Categoria,Concepto
+Groceries,supermarket
+Groceries,mercadona
+Groceries,carrefour
+Dining,coffee
+Dining,starbucks
+Dining,restaurant
+Transport,uber
+Transport,taxi
+Transport,gas station
+Income,payroll
+Income,salary
+Income,transfer
+Housing,rent
+Utilities,electricity
+Utilities,water
+Utilities,internet
+Shopping,amazon
+Shopping,ikea
+
 
