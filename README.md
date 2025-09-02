@@ -14,6 +14,7 @@ Both notebooks are designed to be **modular and reusable**, so you can adapt the
 
 ## 📂 Project Structure
 
+```text
 Personal-Finance-Tools/
 ├─ Notebooks/
 │  ├─ Generador.ipynb          # Expense categorization pipeline
@@ -24,13 +25,13 @@ Personal-Finance-Tools/
 │  └─ processed/               # Cleaned outputs
 └─ rules/
    └─ categories_dictionary.csv # Custom rules for categorization
-
-
+```
 
 - **data/raw/** → Place your original Excel bank statements here.  
 - **data/stage_csv/** → Automatically generated CSV files, used internally.  
 - **data/processed/** → Final datasets (combined and categorized).  
 - **rules/** → Contains dictionaries/rules for expense categorization.
+
 
 ---
 
